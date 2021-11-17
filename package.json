@@ -1,0 +1,41 @@
+{
+  "name": "shahriar-tanvir-portfolio",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^14.18.0",
+    "npm": "^7.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.6.0",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.13",
+    "popper.js": "^1.16.1"
+  },
+  "description": "portfolio website",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanvir75/PERSONAL-PORTFOLIO"
+  },
+  "keywords": [
+    "COMP229"
+  ],
+  "author": "Shahriar Tanvir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanvir75/PERSONAL-PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/stanvir75/PERSONAL-PORTFOLIO/#readme"
+}
